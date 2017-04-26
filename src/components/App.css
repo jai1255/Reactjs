@@ -1,0 +1,91 @@
+.container-div {
+    background-color: #efefef;
+    padding: 2%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.nav-border {
+    border-style: outset;
+}
+.nav-item {
+    font-size: 18px;
+}
+.my-date-picker {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.load-cells {
+    width: 100%;
+    background-color: #428bca;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.dates-table{
+     border-collapse: collapse;
+}
+
+.dates-table tr {
+    display: block;
+    float: left;
+}
+.dates-table th,
+.dates-table td {
+    display: block;
+}
+.comment-box {
+    margin-top: 5px;
+}
+.load-button {
+    height: 46px;
+    margin-top: 10px;
+}
+.user-component {
+    padding-bottom: 15px;
+}
+.form-signin-heading,
+{
+    margin-bottom: 0px;
+}
+.login-div {
+    background-color: #eee !important;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+}
+.nav-link {
+    cursor: pointer;
+}
+
+.user-name{
+    color: #365899;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 1.5;
+    word-spacing: .3px;
+    font-family: 'Lucida Grande';
+}
+
+
+
+ .dates-table td {
+    padding: 0.50rem !important;
+}
+.dates-div{
+    margin:auto;
+}
+
+.centerBlock {
+  display: table;
+  margin: auto;
+}
